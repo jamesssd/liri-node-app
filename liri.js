@@ -63,17 +63,19 @@ function showSongInfo(term) {
         term = "Hello";
     }
     spotify.search(
+       
         {
             type: "track",
             query: term
         },
-        function (err, data) {
+
+        function(err, data) {
             if (err) {
                 console.log("Error occurred: " + err);
                 return;
             }
-            let songs = data.tracks.items;
-
+            var songs = data.tracks.items;
+        
             for (let i = 0; i < songs.length; i++) {
                 console.log("**********SONG INFO*********");
                 fs.appendFileSync("random.txt", "**********SONG INFO*********\n");
@@ -89,10 +91,10 @@ function showSongInfo(term) {
                 fs.appendFileSync("random.txt", "artist(s): " + songs[i].artists[0].name + "\n");
                 console.log("*****************************");  
                 fs.appendFileSync("random.txt", "*****************************\n");
-             }
+            };
         }
-    );
-};
+    )
+}
 
 
 function showMovieInfo(term){
@@ -136,7 +138,7 @@ function showMovieInfo(term){
 
 });}
 
-function getRottenTomatoesRatingObject (data) {
+function getRottenTomatoesRatingObject(data) {
     return data.Ratings.find(function (item) {
        return item.Source === "Rotten Tomatoes";
     });
