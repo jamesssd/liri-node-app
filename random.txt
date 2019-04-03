@@ -759,3 +759,153 @@ preview song: https://p.scdn.co/mp3-preview/230f60a0aedd5800beec1916fe1bdc3cf6cb
 album: Swimming
 artist(s): Mac Miller
 *****************************
+**********SONG INFO*********
+0
+song name: Mixed Personalities (feat. Kanye West)
+preview song: https://p.scdn.co/mp3-preview/0bec1241dc853706ed7c16650063e2980f15be61?cid=daf7bc0421254d17a3fc483fd045baf3
+album: We All Shine
+artist(s): YNW Melly
+*****************************
+**********SONG INFO*********
+1
+song name: I Love It (& Lil Pump)
+preview song: null
+album: I Love It
+artist(s): Kanye West
+*****************************
+**********SONG INFO*********
+2
+song name: MAMA (feat. Nicki Minaj, Kanye West)
+preview song: https://p.scdn.co/mp3-preview/11b863bcbd90129e4b84af9365d5b5f08676b68c?cid=daf7bc0421254d17a3fc483fd045baf3
+album: DUMMY BOY
+artist(s): 6ix9ine
+*****************************
+**********SONG INFO*********
+3
+song name: Gold Digger
+preview song: null
+album: Late Registration
+artist(s): Kanye West
+*****************************
+**********SONG INFO*********
+4
+song name: All Mine
+preview song: null
+album: ye
+artist(s): Kanye West
+*****************************
+**********SONG INFO*********
+5
+song name: Stronger
+preview song: null
+album: Graduation
+artist(s): Kanye West
+*****************************
+**********SONG INFO*********
+6
+song name: Heartless
+preview song: null
+album: 808s & Heartbreak
+artist(s): Kanye West
+*****************************
+**********SONG INFO*********
+7
+song name: POWER
+preview song: null
+album: My Beautiful Dark Twisted Fantasy
+artist(s): Kanye West
+*****************************
+**********SONG INFO*********
+8
+song name: KANGA (feat. Kanye West)
+preview song: https://p.scdn.co/mp3-preview/aef5bf93856a2c7f032cc7e65b24e556dbfd93fe?cid=daf7bc0421254d17a3fc483fd045baf3
+album: DUMMY BOY
+artist(s): 6ix9ine
+*****************************
+**********SONG INFO*********
+9
+song name: Watch (feat. Lil Uzi Vert & Kanye West)
+preview song: https://p.scdn.co/mp3-preview/e2591330de6122c98a82ea2f2c7865f5231e8535?cid=daf7bc0421254d17a3fc483fd045baf3
+album: Watch (feat. Lil Uzi Vert & Kanye West)
+artist(s): Travis Scott
+*****************************
+**********SONG INFO*********
+10
+song name: Father Stretch My Hands Pt. 1
+preview song: null
+album: The Life Of Pablo
+artist(s): Kanye West
+*****************************
+**********SONG INFO*********
+11
+song name: Ghost Town
+preview song: null
+album: ye
+artist(s): Kanye West
+*****************************
+**********SONG INFO*********
+12
+song name: Waves
+preview song: null
+album: The Life Of Pablo
+artist(s): Kanye West
+*****************************
+**********SONG INFO*********
+13
+song name: Black Skinhead
+preview song: null
+album: Yeezus
+artist(s): Kanye West
+*****************************
+**********SONG INFO*********
+14
+song name: All Of The Lights
+preview song: null
+album: My Beautiful Dark Twisted Fantasy
+artist(s): Kanye West
+*****************************
+**********SONG INFO*********
+15
+song name: Yikes
+preview song: null
+album: ye
+artist(s): Kanye West
+*****************************
+**********SONG INFO*********
+16
+song name: Famous
+preview song: null
+album: The Life Of Pablo
+artist(s): Kanye West
+*****************************
+**********SONG INFO*********
+17
+song name: Ultralight Beam
+preview song: null
+album: The Life Of Pablo
+artist(s): Kanye West
+*****************************
+**********SONG INFO*********
+18
+song name: Violent Crimes
+preview song: null
+album: ye
+artist(s): Kanye West
+*****************************
+**********SONG INFO*********
+19
+song name: Runaway
+preview song: null
+album: My Beautiful Dark Twisted Fantasy
+artist(s): Kanye West
+*****************************
+**********MOVIE INFO*********
+Title: Godzilla
+Release Year: 2014
+IMDB Rating: 6.4
+Rotten Tomatoes Rating: 75%
+Country of Production: USA, Japan
+Language: English, Japanese
+Plot: The world is beset by the appearance of monstrous creatures, but one of them may be the only one who can save humanity.
+Actors: Aaron Taylor-Johnson, CJ Adams, Ken Watanabe, Bryan Cranston
+*****************************
